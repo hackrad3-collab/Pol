@@ -1,6 +1,3 @@
-Chilli hub leaked by polsec beta + luarmor
-discord.gg/PmgBwmY6NU
-
 local chilliGithubFastManualDefaultsRu, v, v2, defaultTab, esp, Misc, Server, v3, Players, RunService
 local Workspace, Lighting, CoreGui, HttpService, ReplicatedStorage, UserInputService, TeleportService, TextService, Stats, localPlayer
 local v4, fn, obj, tbl, v5, flag, fn2, tbl2, fn3, v6
